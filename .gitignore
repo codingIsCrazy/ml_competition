@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+bank/data/*
+data/*
 # C extensions
 *.so
 
