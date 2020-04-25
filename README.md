@@ -1,2 +1,2 @@
 # ml_competition
-数据竞赛总结
+数据竞赛学习
