@@ -5,6 +5,8 @@ __pycache__/
 
 bank/data/*
 data/*
+chaoshi/*.csv
+used_car/data/*
 # C extensions
 *.so
 
